@@ -1,5 +1,7 @@
 # Project_repository
 
+## Data Cleaning functions
+
 ### Humberto's functions
 
 - crear_columna_lealtad_tienda.py
@@ -20,3 +22,9 @@
 ### Moisés functions
 
 - concat_tiendas_columnas_int.py
+
+## EDA Functions
+
+### Rafael's functions
+
+- similarity_transactions_matrix.py
